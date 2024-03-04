@@ -426,7 +426,8 @@
           "description": "Experience superior sound quality with boAt Rockerz 450 Wireless Headphones. These on-ear headphones feature 40mm dynamic drivers, adjustable ear cups, and a foldable design for convenient storage.",
           "price": "$ 49.99",
           "discountPrice": "$ 39.99",
-          "image": "/img/headphones/1.webp"
+          "image": "/img/headphones/1.webp",
+          "category": "headphones"
         },
         {
           "id": 2,
@@ -434,7 +435,8 @@
           "description": "Enjoy powerful bass and clear audio with boAt Bassheads 510 Wired Headphones. The over-ear design provides immersive sound, while the foldable ear cups make them easy to carry on the go.",
           "price": "$ 29.99",
           "discountPrice": "$ 24.99",
-          "image": "/img/headphones/2.webp"
+          "image": "/img/headphones/2.webp",
+          "category": "headphones"
         },
         {
           "id": 3,
@@ -442,7 +444,8 @@
           "description": "Upgrade your music experience with boAt Rockerz 255 Pro Neckband Earphones. These wireless earphones offer deep bass, clear vocals, and a comfortable neckband design for all-day use.",
           "price": "$ 34.99",
           "discountPrice": "$ 29.99",
-          "image": "/img/headphones/3.webp"
+          "image": "/img/headphones/3.webp",
+          "category": "headphones"
         },
         {
           "id": 4,
@@ -450,7 +453,8 @@
           "description": "Immerse yourself in high-quality sound with boAt Bassheads 225 In-Ear Earphones. The tangle-free cable and comfortable ear tips make these wired earphones perfect for daily use.",
           "price": "$ 14.99",
           "discountPrice": "$ 12.99",
-          "image": "/img/headphones/4.webp"
+          "image": "/img/headphones/4.webp",
+          "category": "headphones"
         },
         {
           "id": 5,
@@ -458,7 +462,8 @@
           "description": "Go wireless with boAt Airdopes 121v2 True Wireless Earbuds. These earbuds provide a truly immersive sound experience with the convenience of Bluetooth connectivity and a compact charging case.",
           "price": "$ 29.99",
           "discountPrice": "$ 24.99",
-          "image": "/img/headphones/5.webp"
+          "image": "/img/headphones/5.webp",
+          "category": "headphones"
         },
         {
             "id": 6,
@@ -466,7 +471,8 @@
             "description": "Immerse yourself in powerful bass and crystal-clear sound with boAt Rockerz 550 Wireless Headphones. The over-ear design provides comfort, while the adjustable headband ensures a secure fit.",
             "price": "$ 59.99",
             "discountPrice": "$ 49.99",
-            "image": "/img/headphones/6.webp"
+            "image": "/img/headphones/6.webp",
+            "category": "headphones"
         },
         {
             "id": 7,
@@ -474,7 +480,8 @@
             "description": "Experience deep bass and immersive sound with boAt Bassheads 700 Wired Headphones. The over-ear design and soft ear cushions provide long-lasting comfort for extended listening sessions.",
             "price": "$ 39.99",
             "discountPrice": "$ 34.99",
-            "image": "/img/headphones/7.webp"
+            "image": "/img/headphones/7.webp",
+            "category": "headphones"
         },
         {
             "id": 8,
@@ -482,7 +489,8 @@
             "description": "Stay connected on the move with boAt Rockerz 265v2 Neckband Earphones. These wireless earphones offer a blend of style and performance with ergonomic ear tips and a lightweight design.",
             "price": "$ 24.99",
             "discountPrice": "$19.99",
-            "image": "/img/headphones/8.webp"
+            "image": "/img/headphones/8.webp",
+            "category": "headphones"
         },
         {
             "id": 9,
@@ -490,7 +498,8 @@
             "description": "Enhance your audio experience with boAt Bassheads 152 In-Ear Earphones. These wired earphones feature a stylish design, tangle-free cable, and powerful bass for an immersive listening experience.",
             "price": "$ 12.99",
             "discountPrice": "$ 9.99",
-            "image": "/img/headphones/9.gif"
+            "image": "/img/headphones/9.gif",
+            "category": "headphones"
         },
         {
             "id": 10,
@@ -498,7 +507,8 @@
             "description": "Go truly wireless with boAt Airdopes 441 Pro Earbuds. These true wireless earbuds feature instant pairing, touch controls, and dynamic sound for an immersive and convenient listening experience.",
             "price": "$ 49.99",
             "discountPrice": "$ 39.99",
-            "image": "/img/headphones/10.webp"
+            "image": "/img/headphones/10.webp",
+            "category": "headphones"
         },
         {
             "id": 11,
@@ -506,7 +516,8 @@
             "description": "Upgrade your music experience with boAt Rockerz 600 Pro Wireless Headphones. These on-ear headphones deliver powerful bass, clear vocals, and a stylish design for a premium audio experience.",
             "price": "$ 54.99",
             "discountPrice": "$ 44.99",
-            "image": "/img/headphones/11.webp"
+            "image": "/img/headphones/11.webp",
+            "category": "headphones"
         },
         {
             "id": 12,
@@ -514,7 +525,8 @@
             "description": "Immerse yourself in deep, resonating bass with boAt Bassheads 950 Wired Headphones. The over-ear design provides noise isolation, while the foldable ear cups make them easy to carry.",
             "price": "$ 49.99",
             "discountPrice": "$ 39.99",
-            "image": "/img/headphones/12.webp"
+            "image": "/img/headphones/12.webp",
+            "category": "headphones"
         },
         {
             "id": 13,
@@ -522,7 +534,8 @@
             "description": "Stay active with boAt Rockerz 255 Sports Wireless Earphones. These earphones feature a secure fit, sweat resistance, and dynamic sound, making them perfect for workouts and sports activities.",
             "price": "$ 29.99",
             "discountPrice": "$ 24.99",
-            "image": "/img/headphones/13.webp"
+            "image": "/img/headphones/13.webp",
+            "category": "headphones"
         },
         {
             "id": 14,
@@ -530,7 +543,8 @@
             "description": "Enjoy high-quality audio with boAt Bassheads 180 In-Ear Earphones. These wired earphones feature a lightweight design, comfortable ear tips, and powerful bass for a great listening experience.",
             "price": "$ 14.99",
             "discountPrice": "$ 12.99",
-            "image": "/img/headphones/14.webp"
+            "image": "/img/headphones/14.webp",
+            "category": "headphones"
         },
         {
             "id": 15,
@@ -538,7 +552,8 @@
             "description": "Experience true wireless freedom with boAt Airdopes 511V2 Earbuds. These true wireless earbuds offer immersive sound, touch controls, and a compact charging case for on-the-go convenience.",
             "price": "$ 34.99",
             "discountPrice": "$ 29.99",
-            "image": "/img/headphones/15.webp"
+            "image": "/img/headphones/15.webp",
+            "category": "headphones"
         }
     ],
     "airpods": [
@@ -548,7 +563,8 @@
           "description": "Experience the freedom of AirTunes Pro True Wireless Earbuds. These earbuds provide seamless connectivity, touch controls, and crystal-clear sound for an immersive audio experience.",
           "price": "$ 79.99",
           "discountPrice": "$ 69.99",
-          "image": "/img/airpods/19.webp"
+          "image": "/img/airpods/19.webp",
+          "category": "airpods"
         },
         {
           "id": 2,
@@ -556,7 +572,8 @@
           "description": "Elevate your listening experience with SoundPods Ultra Wireless Earbuds. Featuring advanced Bluetooth technology and a sleek design, these earbuds offer comfort and style.",
           "price": "$ 89.99",
           "discountPrice": "$ 79.99",
-          "image": "/img/airpods/1.webp"
+          "image": "/img/airpods/1.webp",
+          "category": "airpods"
         },
         {
           "id": 3,
@@ -564,7 +581,8 @@
           "description": "Immerse yourself in harmonious sound with EchoBuds Harmony True Wireless Earphones. These earphones offer customizable fit, active noise cancellation, and a premium audio experience.",
           "price": "$ 129.99",
           "discountPrice": "$ 109.99",
-          "image": "/img/airpods/2.webp"
+          "image": "/img/airpods/2.webp",
+          "category": "airpods"
         },
         {
           "id": 4,
@@ -572,7 +590,8 @@
           "description": "Stay connected with AirFlow X3 Wireless Ear Pods. These ear pods feature auto-pairing, touch-sensitive controls, and a compact charging case for on-the-go convenience.",
           "price": "$ 69.99",
           "discountPrice": "$ 59.99",
-          "image": "/img/airpods/3.webp"
+          "image": "/img/airpods/3.webp",
+          "category": "airpods"
         },
         {
           "id": 5,
@@ -580,7 +599,8 @@
           "description": "Improve your audio experience with PureTunes Pro True Wireless Earbuds. These earbuds offer high-fidelity sound, touch gestures, and a comfortable fit for extended wear.",
           "price": "$ 99.99",
           "discountPrice": "$ 89.99",
-          "image": "/img/airpods/4.webp"
+          "image": "/img/airpods/4.webp",
+          "category": "airpods"
         },
         {
           "id": 6,
@@ -588,7 +608,8 @@
           "description": "Upgrade to SonicPods X2 Wireless In-Ear Earphones for a true wireless experience. These earphones feature dynamic sound, ergonomic design, and a portable charging case.",
           "price": "$ 49.99",
           "discountPrice": "$ 39.99",
-          "image": "/img/airpods/5.webp"
+          "image": "/img/airpods/5.webp",
+          "category": "airpods"
         },
         {
           "id": 7,
@@ -596,7 +617,8 @@
           "description": "Escape into a world of tranquility with ZenBuds Pro True Wireless Ear Pods. These ear pods offer immersive sound, active noise cancellation, and a stylish design.",
           "price": "$ 119.99",
           "discountPrice": "$ 99.99",
-          "image": "/img/airpods/6.webp"
+          "image": "/img/airpods/6.webp",
+          "category": "airpods"
         },
         {
           "id": 8,
@@ -604,7 +626,8 @@
           "description": "Go wireless with EliteAir Wireless Bluetooth Earbuds. These Bluetooth earbuds provide clear audio, touch controls, and a compact charging case for easy portability.",
           "price": "$ 59.99",
           "discountPrice": "$ 49.99",
-          "image": "/img/airpods/7.webp"
+          "image": "/img/airpods/7.webp",
+          "category": "airpods"
         },
         {
           "id": 9,
@@ -612,7 +635,8 @@
           "description": "Experience the perfect harmony of audio with HarmonyPods True Wireless Stereo Earbuds. These earbuds deliver crisp sound quality and a comfortable fit for all-day use.",
           "price": "$ 69.99",
           "discountPrice": "$ 59.99",
-          "image": "/img/airpods/8.webp"
+          "image": "/img/airpods/8.webp",
+          "category": "airpods"
         },
         {
           "id": 10,
@@ -620,7 +644,8 @@
           "description": "Immerse yourself in the beats with AirBeat Pro Wireless Earbuds. These earbuds offer dynamic sound, touch controls, and a sleek design for a stylish audio experience.",
           "price": "$ 79.99",
           "discountPrice": "$ 69.99",
-          "image": "/img/airpods/9.webp"
+          "image": "/img/airpods/9.webp",
+          "category": "airpods"
         },
         {
             "id": 11,
@@ -628,7 +653,8 @@
             "description": "Step into the elite audio experience with AirSync Elite True Wireless Earbuds. These earbuds offer seamless connectivity, touch-sensitive controls, and a sleek, modern design.",
             "price": "$ 89.99",
             "discountPrice": "$ 79.99",
-            "image": "/img/airpods/10.webp"
+            "image": "/img/airpods/10.webp",
+            "category": "airpods"
         },
         {
             "id": 12,
@@ -636,7 +662,8 @@
             "description": "Elevate your music with SonicWave Pro Wireless Ear Pods. These ear pods deliver high-quality sound, touch gestures, and a comfortable fit for an enjoyable listening experience.",
             "price": "$ 99.99",
             "discountPrice": "$ 89.99",
-            "image": "/img/airpods/11.webp"
+            "image": "/img/airpods/11.webp",
+            "category": "airpods"
         },
         {
             "id": 13,
@@ -644,7 +671,8 @@
             "description": "Find harmony in your music with ZenPods Harmony True Wireless Earbuds. These earbuds feature advanced audio technology, touch controls, and a stylish design for a premium experience.",
             "price": "$ 129.99",
             "discountPrice": "$ 109.99",
-            "image": "/img/airpods/12.webp"
+            "image": "/img/airpods/12.webp",
+            "category": "airpods"
         },
         {
             "id": 14,
@@ -652,7 +680,8 @@
             "description": "Experience crisp and clear audio with CrispAudio Pro Wireless Earbuds. These earbuds offer noise isolation, touch-sensitive controls, and a compact charging case for convenience.",
             "price": "$ 79.99",
             "discountPrice": "$ 69.99",
-            "image": "/img/airpods/13.webp"
+            "image": "/img/airpods/13.webp",
+            "category": "airpods"
         },
         {
             "id": 15,
@@ -660,7 +689,8 @@
             "description": "Stay swift and connected with SwiftBeats Ultra True Wireless Earphones. These earphones provide fast pairing, touch gestures, and a lightweight design for active lifestyles.",
             "price": "$ 69.99",
             "discountPrice": "$ 59.99",
-            "image": "/img/airpods/14.webp"
+            "image": "/img/airpods/14.webp",
+            "category": "airpods"
         },
         {
             "id": 16,
@@ -668,7 +698,8 @@
             "description": "Groove to the rhythm with AirGroove X1 Wireless Ear Pods. These ear pods feature dynamic bass, touch controls, and a sleek, ergonomic design for a stylish audio experience.",
             "price": "$ 49.99",
             "discountPrice": "$ 39.99",
-            "image": "/img/airpods/15.webp"
+            "image": "/img/airpods/15.webp",
+            "category": "airpods"
         },
         {
             "id": 17,
@@ -676,7 +707,8 @@
             "description": "Immerse yourself in harmony with HarmonyAir True Wireless Stereo Earbuds. These earbuds deliver a balanced audio experience, touch-sensitive controls, and a comfortable fit.",
             "price": "$ 59.99",
             "discountPrice": "$ 49.99",
-            "image": "/img/airpods/16.webp"
+            "image": "/img/airpods/16.webp",
+            "category": "airpods"
         },
         {
             "id": 18,
@@ -684,7 +716,8 @@
             "description": "Feel the vibe with AirVibe Pro Wireless Earbuds. These earbuds offer immersive sound, touch controls, and a sleek design for music enthusiasts who appreciate style and performance.",
             "price": "$ 89.99",
             "discountPrice": "$ 79.99",
-            "image": "/img/airpods/17.webp"
+            "image": "/img/airpods/17.webp",
+            "category": "airpods"
         },
         {
             "id": 19,
@@ -692,7 +725,8 @@
             "description": "Experience the aura of sound with AuraPods Wireless Bluetooth Earbuds. These Bluetooth earbuds provide crystal-clear audio, touch-sensitive controls, and a compact charging case.",
             "price": "$ 69.99",
             "discountPrice": "$ 59.99",
-            "image": "/img/airpods/18.webp"
+            "image": "/img/airpods/18.webp",
+            "category": "airpods"
         },
         {
             "id": 20,
@@ -700,7 +734,8 @@
             "description": "Go with the flow with FlowSync True Wireless Ear Pods. These ear pods offer seamless connectivity, touch gestures, and a minimalist design for those who appreciate simplicity.",
             "price": "$ 49.99",
             "discountPrice": "$ 39.99",
-            "image": "/img/airpods/20.webp"
+            "image": "/img/airpods/20.webp",
+            "category": "airpods"
         }
     ],
     "smartWatches": [
@@ -710,7 +745,8 @@
         "description": "Stay on top of your schedule with the TimeTrack Pro Smartwatch. This smartwatch offers advanced tracking features, customizable watch faces, and long battery life.",
         "price": "$ 149.99",
         "discountPrice": "$ 129.99",
-        "image": "/img/smartwatches/1.webp"
+        "image": "/img/smartwatches/1.webp",
+        "category": "smartWatches"
       },
       {
         "id": 2,
@@ -718,7 +754,8 @@
         "description": "Achieve your fitness goals with the FitGear Ultra Smartwatch. This smartwatch features GPS tracking, heart rate monitoring, and workout analysis.",
         "price": "$ 199.99",
         "discountPrice": "$ 179.99",
-        "image": "/img/smartwatches/2.webp"
+        "image": "/img/smartwatches/2.webp",
+        "category": "smartWatches"
       },
       {
         "id": 3,
@@ -726,7 +763,8 @@
         "description": "Sync your health data seamlessly with the HealthSync Pro Smartwatch. This smartwatch tracks steps, calories burned, and sleep patterns for a comprehensive health overview.",
         "price": "$ 129.99",
         "discountPrice": "$ 109.99",
-        "image": "/img/smartwatches/3.webp"
+        "image": "/img/smartwatches/3.webp",
+        "category": "smartWatches"
       },
       {
         "id": 4,
@@ -734,7 +772,8 @@
         "description": "Elevate your sports performance with the SportTech Elite Smartwatch. This smartwatch offers sports-specific tracking, waterproof design, and durable construction.",
         "price": "$ 179.99",
         "discountPrice": "$ 159.99",
-        "image": "/img/smartwatches/4.webp"
+        "image": "/img/smartwatches/4.webp",
+        "category": "smartWatches"
       },
       {
         "id": 5,
@@ -742,7 +781,8 @@
         "description": "Track your style and performance with the StyleTrack Pro Smartwatch. This smartwatch offers customizable watch faces, activity tracking, and notifications.",
         "price": "$ 99.99",
         "discountPrice": "$ 79.99",
-        "image": "/img/smartwatches/5.webp"
+        "image": "/img/smartwatches/5.webp",
+        "category": "smartWatches"
       },
       {
         "id": 6,
@@ -750,7 +790,8 @@
         "description": "Embark on adventures with the AdventureSync Smartwatch. This smartwatch features GPS navigation, rugged design, and long battery life for outdoor enthusiasts.",
         "price": "$ 219.99",
         "discountPrice": "$ 199.99",
-        "image": "/img/smartwatches/6.webp"
+        "image": "/img/smartwatches/6.webp",
+        "category": "smartWatches"
       },
       {
         "id": 7,
@@ -758,7 +799,8 @@
         "description": "Stay connected and fit with the ConnectFit Smartwatch. This smartwatch offers call and message notifications, fitness tracking, and a sleek design.",
         "price": "$ 109.99",
         "discountPrice": "$ 89.99",
-        "image": "/img/smartwatches/7.webp"
+        "image": "/img/smartwatches/7.webp",
+        "category": "smartWatches"
       },
       {
         "id": 8,
@@ -766,7 +808,8 @@
         "description": "Sense the time and more with the TimeSense Smartwatch. This smartwatch features advanced sensors, health tracking, and a stylish design.",
         "price": "$ 159.99",
         "discountPrice": "$ 139.99",
-        "image": "/img/smartwatches/16.webp"
+        "image": "/img/smartwatches/16.webp",
+        "category": "smartWatches"
       },
       {
         "id": 9,
@@ -774,7 +817,8 @@
         "description": "Live life to the fullest with the LifeWatch Elite Smartwatch. This smartwatch offers comprehensive health tracking, sleep analysis, and long battery life.",
         "price": "$ 189.99",
         "discountPrice": "$ 169.99",
-        "image": "/img/smartwatches/8.webp"
+        "image": "/img/smartwatches/8.webp",
+        "category": "smartWatches"
       },
       {
         "id": 10,
@@ -782,7 +826,8 @@
         "description": "Navigate urban jungles with the UrbanTrack Smartwatch. This smartwatch features city-specific navigation, activity tracking, and stylish design.",
         "price": "$ 129.99",
         "discountPrice": "$ 109.99",
-        "image": "/img/smartwatches/9.webp"
+        "image": "/img/smartwatches/9.webp",
+        "category": "smartWatches"
       },
       {
         "id": 11,
@@ -790,7 +835,8 @@
         "description": "Go green with the EcoFit Smartwatch. This eco-friendly smartwatch features recycled materials, energy-efficient design, and health tracking capabilities.",
         "price": "$ 99.99",
         "discountPrice": "$ 79.99",
-        "image": "/img/smartwatches/10.webp"
+        "image": "/img/smartwatches/10.webp",
+        "category": "smartWatches"
       },
       {
         "id": 12,
@@ -798,7 +844,8 @@
         "description": "Track your tech and lifestyle with the TechTrack Pro Smartwatch. This smartwatch offers tech integration, activity tracking, and stylish design.",
         "price": "$ 149.99",
         "discountPrice": "$ 129.99",
-        "image": "/img/smartwatches/11.webp"
+        "image": "/img/smartwatches/11.webp",
+        "category": "smartWatches"
       },
       {
         "id": 13,
@@ -806,7 +853,8 @@
         "description": "Maximize your fitness with the FitLife Max Smartwatch. This smartwatch offers advanced workout tracking, health monitoring, and personalized insights.",
         "price": "$ 199.99",
         "discountPrice": "$ 179.99",
-        "image": "/img/smartwatches/12.webp"
+        "image": "/img/smartwatches/12.webp",
+        "category": "smartWatches"
       },
       {
         "id": 14,
@@ -814,7 +862,8 @@
         "description": "Sync your style with the StyleSync Smartwatch. This fashionable smartwatch offers customizable bands, watch faces, and activity tracking.",
         "price": "$ 119.99",
         "discountPrice": "$ 99.99",
-        "image": "/img/smartwatches/13.webp"
+        "image": "/img/smartwatches/13.webp",
+        "category": "smartWatches"
       },
       {
         "id": 15,
@@ -822,7 +871,8 @@
         "description": "Keep your health in check with the HealthBeat Smartwatch. This smartwatch offers heart rate monitoring, sleep tracking, and guided breathing exercises.",
         "price": "$ 129.99",
         "discountPrice": "$ 109.99",
-        "image": "/img/smartwatches/14.webp"
+        "image": "/img/smartwatches/14.webp",
+        "category": "smartWatches"
       },
       {
         "id": 16,
@@ -830,7 +880,8 @@
         "description": "Live life adventurously with the AdventureLife Smartwatch. This rugged smartwatch offers outdoor navigation, durability, and adventure tracking features.",
         "price": "$ 219.99",
         "discountPrice": "$ 199.99",
-        "image": "/img/smartwatches/15.webp"
+        "image": "/img/smartwatches/15.webp",
+        "category": "smartWatches"
       },
       {
         "id": 17,
@@ -838,7 +889,8 @@
         "description": "Stay connected to your life with the ConnectLife Smartwatch. This versatile smartwatch offers call, message notifications, and fitness tracking.",
         "price": "$ 109.99",
         "discountPrice": "$ 89.99",
-        "image": "/img/smartwatches/17.webp"
+        "image": "/img/smartwatches/17.webp",
+        "category": "smartWatches"
       },
       {
         "id": 18,
@@ -846,7 +898,8 @@
         "description": "Flex your time with the TimeFlex Smartwatch. This smartwatch offers flexible bands, customizable watch faces, and advanced time management features.",
         "price": "$ 159.99",
         "discountPrice": "$ 139.99",
-        "image": "/img/smartwatches/18.jpg"
+        "image": "/img/smartwatches/18.jpg",
+        "category": "smartWatches"
       },
       {
         "id": 19,
@@ -854,7 +907,8 @@
         "description": "Sync your life with the LifeSync Smartwatch. This all-in-one smartwatch offers health tracking, productivity tools, and smart assistant integration.",
         "price": "$ 189.99",
         "discountPrice": "$ 169.99",
-        "image": "/img/smartwatches/19.webp"
+        "image": "/img/smartwatches/19.webp",
+        "category": "smartWatches"
       },
       {
         "id": 20,
@@ -862,7 +916,8 @@
         "description": "Navigate urban living with the UrbanLife Smartwatch. This city-centric smartwatch offers navigation assistance, lifestyle tracking, and sleek design.",
         "price": "$ 129.99",
         "discountPrice": "$ 109.99",
-        "image": "/img/smartwatches/20.gif"
+        "image": "/img/smartwatches/20.gif",
+        "category": "smartWatches"
       }
     ],
     "bluetoothSpeaker": [
@@ -872,7 +927,8 @@
           "description": "Take your music anywhere with GrooveSound Mini Portable Bluetooth Speaker. This compact speaker delivers powerful sound, wireless connectivity, and a long-lasting battery for on-the-go enjoyment.",
           "price": "$ 39.99",
           "discountPrice": "$ 29.99",
-          "image": "/img/bluetoothSpeakeers/1.webp"
+          "image": "/img/bluetoothSpeakeers/1.webp",
+          "category": "bluetoothSpeaker"
         },
         {
           "id": 2,
@@ -880,7 +936,8 @@
           "description": "Experience premium audio with EchoBeats Pro Wireless Bluetooth Speaker. This speaker features advanced Bluetooth technology, 360-degree sound, and a sleek, modern design.",
           "price": "$ 79.99",
           "discountPrice": "$ 69.99",
-          "image": "/img/bluetoothSpeakeers/2.webp"
+          "image": "/img/bluetoothSpeakeers/2.webp",
+          "category": "bluetoothSpeaker"
         },
         {
           "id": 3,
@@ -888,7 +945,8 @@
           "description": "Harmonize your surroundings with HarmonyTunes Portable Bluetooth Speaker. This speaker offers rich, clear sound, easy connectivity, and a stylish, portable design.",
           "price": "$ 49.99",
           "discountPrice": "$ 39.99",
-          "image": "/img/bluetoothSpeakeers/3.webp"
+          "image": "/img/bluetoothSpeakeers/3.webp",
+          "category": "bluetoothSpeaker"
         },
         {
           "id": 4,
@@ -896,7 +954,8 @@
           "description": "Experience booming bass with BassBoom XL Wireless Bluetooth Speaker. This speaker delivers deep, powerful bass, long-lasting battery life, and convenient wireless connectivity.",
           "price": "$ 89.99",
           "discountPrice": "$ 79.99",
-          "image": "/img/bluetoothSpeakeers/4.webp"
+          "image": "/img/bluetoothSpeakeers/4.webp",
+          "category": "bluetoothSpeaker"
         },
         {
           "id": 5,
@@ -904,7 +963,8 @@
           "description": "Take the party outdoors with SoundWave Pro Outdoor Bluetooth Speaker. This rugged speaker is designed for outdoor use, featuring water resistance, durable build, and dynamic sound.",
           "price": "$ 69.99",
           "discountPrice": "$ 59.99",
-          "image": "/img/bluetoothSpeakeers/5.webp"
+          "image": "/img/bluetoothSpeakeers/5.webp",
+          "category": "bluetoothSpeaker"
         },
         {
           "id": 6,
@@ -912,7 +972,8 @@
           "description": "Find tranquility in your music with ZenBeats Portable Wireless Speaker. This speaker offers a compact design, soothing sound, and seamless Bluetooth connectivity for relaxation on the go.",
           "price": "$ 59.99",
           "discountPrice": "$ 49.99",
-          "image": "/img/bluetoothSpeakeers/6.webp"
+          "image": "/img/bluetoothSpeakeers/6.webp",
+          "category": "bluetoothSpeaker"
         },
         {
           "id": 7,
@@ -920,7 +981,8 @@
           "description": "Make a splash with AquaSound Waterproof Bluetooth Speaker. This waterproof speaker is perfect for poolside or beach gatherings, providing quality sound and hassle-free wireless connectivity.",
           "price": "$ 79.99",
           "discountPrice": "$ 69.99",
-          "image": "/img/bluetoothSpeakeers/7.webp"
+          "image": "/img/bluetoothSpeakeers/7.webp",
+          "category": "bluetoothSpeaker"
         },
         {
           "id": 8,
@@ -928,7 +990,8 @@
           "description": "Sync up with your favorite tunes using SwiftSync Portable Bluetooth Speaker. This speaker offers fast Bluetooth pairing, compact design, and a built-in rechargeable battery for convenience.",
           "price": "$ 39.99",
           "discountPrice": "$ 29.99",
-          "image": "/img/bluetoothSpeakeers/8.webp"
+          "image": "/img/bluetoothSpeakeers/8.webp",
+          "category": "bluetoothSpeaker"
         },
         {
           "id": 9,
@@ -936,7 +999,8 @@
           "description": "Immerse yourself in nature with UltraTune Wireless Outdoor Speaker. This outdoor speaker is designed for adventure, featuring rugged construction, powerful sound, and long battery life.",
           "price": "$ 89.99",
           "discountPrice": "$ 79.99",
-          "image": "/img/bluetoothSpeakeers/9.webp"
+          "image": "/img/bluetoothSpeakeers/9.webp",
+          "category": "bluetoothSpeaker"
         },
         {
           "id": 10,
@@ -944,7 +1008,8 @@
           "description": "Feel the vibes at your party with VibeWave XL Bluetooth Party Speaker. This speaker delivers high-energy sound, dynamic lighting effects, and versatile connectivity options for a lively atmosphere.",
           "price": "$ 129.99",
           "discountPrice": "$ 109.99",
-          "image": "/img/bluetoothSpeakeers/10.jpg"
+          "image": "/img/bluetoothSpeakeers/10.jpg",
+          "category": "bluetoothSpeaker"
         },
         {
             "id": 11,
@@ -952,7 +1017,8 @@
             "description": "Bring back the retro vibes with RetroSound Vintage Bluetooth Speaker. This speaker combines classic design with modern technology, delivering nostalgic sound and wireless convenience.",
             "price": "$ 59.99",
             "discountPrice": "$ 49.99",
-            "image": "/img/bluetoothSpeakeers/11.webp"
+            "image": "/img/bluetoothSpeakeers/11.webp",
+            "category": "bluetoothSpeaker"
         },
         {
             "id": 12,
@@ -960,7 +1026,8 @@
             "description": "Embrace the urban beats with UrbanBeats Urban Style Bluetooth Speaker. This speaker features a stylish urban design, high-fidelity sound, and easy Bluetooth pairing for city dwellers.",
             "price": "$ 69.99",
             "discountPrice": "$ 59.99",
-            "image": "/img/bluetoothSpeakeers/12.jpg"
+            "image": "/img/bluetoothSpeakeers/12.jpg",
+            "category": "bluetoothSpeaker"
         },
         {
             "id": 13,
@@ -968,7 +1035,8 @@
             "description": "Immerse yourself in a soundscape with SoundScape Surround Sound Bluetooth Speaker. This speaker offers 360-degree audio, deep bass, and a sleek, modern design for a cinematic experience.",
             "price": "$ 79.99",
             "discountPrice": "$ 69.99",
-            "image": "/img/bluetoothSpeakeers/13.avif"
+            "image": "/img/bluetoothSpeakeers/13.avif",
+            "category": "bluetoothSpeaker"
         },
         {
             "id": 14,
@@ -976,7 +1044,8 @@
             "description": "Sync up with powerful bass using BassSync Portable Bluetooth Speaker. This compact speaker delivers rich bass, easy portability, and wireless connectivity for music enthusiasts on the move.",
             "price": "$ 49.99",
             "discountPrice": "$ 39.99",
-            "image": "/img/bluetoothSpeakeers/14.avif"
+            "image": "/img/bluetoothSpeakeers/14.avif",
+            "category": "bluetoothSpeaker"
         },
         {
             "id": 15,
@@ -984,7 +1053,8 @@
             "description": "Embark on an audio adventure with AdventureTunes Outdoor Bluetooth Speaker. This rugged speaker is designed for outdoor enthusiasts, providing durable construction and high-quality sound.",
             "price": "$ 89.99",
             "discountPrice": "$ 79.99",
-            "image": "/img/bluetoothSpeakeers/15.webp"
+            "image": "/img/bluetoothSpeakeers/15.webp",
+            "category": "bluetoothSpeaker"
         }
     ]
 }

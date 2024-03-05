@@ -135,318 +135,81 @@
           "userId": 1,
           "products": [
             {
-                "id": 1,
                 "quantity": 2,
+                "id": 1,
                 "productName": "boAt Rockerz 450 Wireless On-Ear Headphones",
                 "description": "Experience superior sound quality with boAt Rockerz 450 Wireless Headphones. These on-ear headphones feature 40mm dynamic drivers, adjustable ear cups, and a foldable design for convenient storage.",
-                "price": 49.99,
-                "discountPrice": 39.99,
-                "image": "../assets/products/boat_headphone1.png"
+                "price": "$ 49.99",
+                "discountPrice": "$ 39.99",
+                "image": "/img/headphones/1.webp",
+                "category": "headphones"
             },
             {
-                "id": 9,
                 "quantity": 2,
-                "productName": "FlexTune Neckband Earbuds with Mic",
-                "description": "Tune in flexibly with FlexTune Neckband Earbuds featuring a built-in mic. These earbuds offer hands-free calling, dynamic sound, and a comfortable neckband for everyday use.",
-                "price": 49.99,
-                "discountPrice": 39.99,
-                "image": "../assets/products/neckband9.png"
+                "id": 1,
+                "productName": "AirTunes Pro True Wireless Earbuds",
+                "description": "Experience the freedom of AirTunes Pro True Wireless Earbuds. These earbuds provide seamless connectivity, touch controls, and crystal-clear sound for an immersive audio experience.",
+                "price": "$ 79.99",
+                "discountPrice": "$ 69.99",
+                "image": "/img/airpods/19.webp",
+                "category": "airpods"
             },
             {
-                "id": 10,
                 "quantity": 2,
-                "productName": "VibeFlex Pro Wireless Neckband Headphones",
-                "description": "Feel the vibes with VibeFlex Pro Wireless Neckband Headphones. These headphones feature a vibe-enhancing design, touch-sensitive controls, and a comfortable neckband for long listening sessions.",
-                "price": 89.99,
-                "discountPrice": 79.99,
-                "image": "../assets/products/neckband10.png"
+                "id": 1,
+                "productName": "TimeTrack Pro Smartwatch",
+                "description": "Stay on top of your schedule with the TimeTrack Pro Smartwatch. This smartwatch offers advanced tracking features, customizable watch faces, and long battery life.",
+                "price": "$ 149.99",
+                "discountPrice": "$ 129.99",
+                "image": "/img/smartwatches/1.webp",
+                "category": "smartWatches"
             },
             {
-                "id": 11,
                 "quantity": 2,
-                "productName": "GrooveFlex Wireless Neckband Earbuds",
-                "description": "Find your groove with GrooveFlex Wireless Neckband Earbuds. These earbuds offer a flexible neckband, deep bass, and touch-sensitive controls for a personalized audio experience.",
-                "price": 59.99,
-                "discountPrice": 49.99,
-                "image": "../assets/products/neckband11.png"
+                "id": 1,
+                "productName": "GrooveSound Mini Portable Bluetooth Speaker",
+                "description": "Take your music anywhere with GrooveSound Mini Portable Bluetooth Speaker. This compact speaker delivers powerful sound, wireless connectivity, and a long-lasting battery for on-the-go enjoyment.",
+                "price": "$ 39.99",
+                "discountPrice": "$ 29.99",
+                "image": "/img/bluetoothSpeakeers/1.webp",
+                "category": "bluetoothSpeaker"
             }
           ]
         },
         {
           "id": 2,
           "userId": 2,
-          "products": [
-            {
-                "id": 1,
-                "quantity": 2,
-                "productName": "boAt Rockerz 450 Wireless On-Ear Headphones",
-                "description": "Experience superior sound quality with boAt Rockerz 450 Wireless Headphones. These on-ear headphones feature 40mm dynamic drivers, adjustable ear cups, and a foldable design for convenient storage.",
-                "price": 49.99,
-                "discountPrice": 39.99,
-                "image": "../assets/products/boat_headphone1.png"
-            },
-            {
-                "id": 9,
-                "quantity": 2,
-                "productName": "FlexTune Neckband Earbuds with Mic",
-                "description": "Tune in flexibly with FlexTune Neckband Earbuds featuring a built-in mic. These earbuds offer hands-free calling, dynamic sound, and a comfortable neckband for everyday use.",
-                "price": 49.99,
-                "discountPrice": 39.99,
-                "image": "../assets/products/neckband9.png"
-            },
-            {
-                "id": 10,
-                "quantity": 2,
-                "productName": "VibeFlex Pro Wireless Neckband Headphones",
-                "description": "Feel the vibes with VibeFlex Pro Wireless Neckband Headphones. These headphones feature a vibe-enhancing design, touch-sensitive controls, and a comfortable neckband for long listening sessions.",
-                "price": 89.99,
-                "discountPrice": 79.99,
-                "image": "../assets/products/neckband10.png"
-            },
-            {
-                "id": 11,
-                "quantity": 2,
-                "productName": "GrooveFlex Wireless Neckband Earbuds",
-                "description": "Find your groove with GrooveFlex Wireless Neckband Earbuds. These earbuds offer a flexible neckband, deep bass, and touch-sensitive controls for a personalized audio experience.",
-                "price": 59.99,
-                "discountPrice": 49.99,
-                "image": "../assets/products/neckband11.png"
-            }
-          ]
+          "products": [ ]
         },
         {
           "id": 3,
           "userId": 3,
-          "products": [
-            {
-                "id": 1,
-                "quantity": 2,
-                "productName": "boAt Rockerz 450 Wireless On-Ear Headphones",
-                "description": "Experience superior sound quality with boAt Rockerz 450 Wireless Headphones. These on-ear headphones feature 40mm dynamic drivers, adjustable ear cups, and a foldable design for convenient storage.",
-                "price": 49.99,
-                "discountPrice": 39.99,
-                "image": "../assets/products/boat_headphone1.png"
-            },
-            {
-                "id": 9,
-                "quantity": 2,
-                "productName": "FlexTune Neckband Earbuds with Mic",
-                "description": "Tune in flexibly with FlexTune Neckband Earbuds featuring a built-in mic. These earbuds offer hands-free calling, dynamic sound, and a comfortable neckband for everyday use.",
-                "price": 49.99,
-                "discountPrice": 39.99,
-                "image": "../assets/products/neckband9.png"
-            },
-            {
-                "id": 10,
-                "quantity": 2,
-                "productName": "VibeFlex Pro Wireless Neckband Headphones",
-                "description": "Feel the vibes with VibeFlex Pro Wireless Neckband Headphones. These headphones feature a vibe-enhancing design, touch-sensitive controls, and a comfortable neckband for long listening sessions.",
-                "price": 89.99,
-                "discountPrice": 79.99,
-                "image": "../assets/products/neckband10.png"
-            },
-            {
-                "id": 11,
-                "quantity": 2,
-                "productName": "GrooveFlex Wireless Neckband Earbuds",
-                "description": "Find your groove with GrooveFlex Wireless Neckband Earbuds. These earbuds offer a flexible neckband, deep bass, and touch-sensitive controls for a personalized audio experience.",
-                "price": 59.99,
-                "discountPrice": 49.99,
-                "image": "../assets/products/neckband11.png"
-            }
-          ]
+          "products": [ ]
         },
         {
           "id": 4,
           "userId": 4,
-          "products": [
-            {
-                "id": 9,
-                "quantity": 2,
-                "productName": "FlexTune Neckband Earbuds with Mic",
-                "description": "Tune in flexibly with FlexTune Neckband Earbuds featuring a built-in mic. These earbuds offer hands-free calling, dynamic sound, and a comfortable neckband for everyday use.",
-                "price": 49.99,
-                "discountPrice": 39.99,
-                "image": "../assets/products/neckband9.png"
-            },
-            {
-                "id": 10,
-                "quantity": 2,
-                "productName": "VibeFlex Pro Wireless Neckband Headphones",
-                "description": "Feel the vibes with VibeFlex Pro Wireless Neckband Headphones. These headphones feature a vibe-enhancing design, touch-sensitive controls, and a comfortable neckband for long listening sessions.",
-                "price": 89.99,
-                "discountPrice": 79.99,
-                "image": "../assets/products/neckband10.png"
-            },
-            {
-                "id": 11,
-                "quantity": 2,
-                "productName": "GrooveFlex Wireless Neckband Earbuds",
-                "description": "Find your groove with GrooveFlex Wireless Neckband Earbuds. These earbuds offer a flexible neckband, deep bass, and touch-sensitive controls for a personalized audio experience.",
-                "price": 59.99,
-                "discountPrice": 49.99,
-                "image": "../assets/products/neckband11.png"
-            }
-          ]
+          "products": [ ]
         },
         {
           "id": 5,
           "userId": 5,
-          "products": [
-            {
-                "id": 4,
-                "quantity": 2,
-                "productName": "FlexTunes Wireless Neckband Earbuds",
-                "description": "Stay flexible and connected with FlexTunes Wireless Neckband Earbuds. These earbuds feature a flexible neckband, hands-free calling, and powerful bass for an enjoyable audio experience.",
-                "price": 49.99,
-                "discountPrice": 39.99,
-                "image": "../assets/products/neckband4.png"
-            },
-            {
-                "id": 5,
-                "quantity": 2,
-                "productName": "BeatWave Pro Wireless Neckband Headset",
-                "description": "Ride the waves of music with BeatWave Pro Wireless Neckband Headset. These headsets offer dynamic sound, customizable fit, and a foldable design for easy storage.",
-                "price": 89.99,
-                "discountPrice": 79.99,
-                "image": "../assets/products/neckband5.png"
-            },
-            {
-                "id": 6,
-                "quantity": 2,
-                "productName": "AquaTunes Neckband Waterproof Earphones",
-                "description": "Dive into your playlist with AquaTunes Neckband Waterproof Earphones. These waterproof earphones feature a durable neckband, high-quality sound, and a comfortable fit for active lifestyles.",
-                "price": 79.99,
-                "discountPrice": 69.99,
-                "image": "../assets/products/neckband6.png"
-            },
-            {
-                "id": 1,
-                "quantity": 2,
-                "productName": "boAt Rockerz 450 Wireless On-Ear Headphones",
-                "description": "Experience superior sound quality with boAt Rockerz 450 Wireless Headphones. These on-ear headphones feature 40mm dynamic drivers, adjustable ear cups, and a foldable design for convenient storage.",
-                "price": 49.99,
-                "discountPrice": 39.99,
-                "image": "../assets/products/boat_headphone1.png"
-            }
-          ]
+          "products": [ ]
         },
         {
           "id": 6,
           "userId": 6,
-          "products": [
-            {
-                "id": 4,
-                "quantity": 2,
-                "productName": "FlexTunes Wireless Neckband Earbuds",
-                "description": "Stay flexible and connected with FlexTunes Wireless Neckband Earbuds. These earbuds feature a flexible neckband, hands-free calling, and powerful bass for an enjoyable audio experience.",
-                "price": 49.99,
-                "discountPrice": 39.99,
-                "image": "../assets/products/neckband4.png"
-            },
-            {
-                "id": 5,
-                "quantity": 2,
-                "productName": "BeatWave Pro Wireless Neckband Headset",
-                "description": "Ride the waves of music with BeatWave Pro Wireless Neckband Headset. These headsets offer dynamic sound, customizable fit, and a foldable design for easy storage.",
-                "price": 89.99,
-                "discountPrice": 79.99,
-                "image": "../assets/products/neckband5.png"
-            },
-            {
-                "id": 6,
-                "quantity": 2,
-                "productName": "AquaTunes Neckband Waterproof Earphones",
-                "description": "Dive into your playlist with AquaTunes Neckband Waterproof Earphones. These waterproof earphones feature a durable neckband, high-quality sound, and a comfortable fit for active lifestyles.",
-                "price": 79.99,
-                "discountPrice": 69.99,
-                "image": "../assets/products/neckband6.png"
-            }
-          ]
+          "products": [ ]
         },
         {
           "id": 7,
           "userId": 7,
-          "products": [
-            {
-                "id": 2,
-                "quantity": 2,
-                "productName": "SoundPods Ultra Wireless Earbuds",
-                "description": "Elevate your listening experience with SoundPods Ultra Wireless Earbuds. Featuring advanced Bluetooth technology and a sleek design, these earbuds offer comfort and style.",
-                "price": 89.99,
-                "discountPrice": 79.99,
-                "image": "../assets/products/airpods_style2.png"
-            },
-            {
-                "id": 3,
-                "quantity": 2,
-                "productName": "EchoBuds Harmony True Wireless Earphones",
-                "description": "Immerse yourself in harmonious sound with EchoBuds Harmony True Wireless Earphones. These earphones offer customizable fit, active noise cancellation, and a premium audio experience.",
-                "price": 129.99,
-                "discountPrice": 109.99,
-                "image": "../assets/products/airpods_style3.png"
-            },
-            {
-                "id": 2,
-                "quantity": 2,
-                "productName": "SoundPods Ultra Wireless Earbuds",
-                "description": "Elevate your listening experience with SoundPods Ultra Wireless Earbuds. Featuring advanced Bluetooth technology and a sleek design, these earbuds offer comfort and style.",
-                "price": 89.99,
-                "discountPrice": 79.99,
-                "image": "../assets/products/airpods_style2.png"
-            },
-            {
-                "id": 3,
-                "quantity": 2,
-                "productName": "EchoBuds Harmony True Wireless Earphones",
-                "description": "Immerse yourself in harmonious sound with EchoBuds Harmony True Wireless Earphones. These earphones offer customizable fit, active noise cancellation, and a premium audio experience.",
-                "price": 129.99,
-                "discountPrice": 109.99,
-                "image": "../assets/products/airpods_style3.png"
-            }
-          ]
+          "products": [ ]
         },
         {
           "id": 8,
           "userId": 8,
-          "products": [
-            {
-                "id": 1,
-                "quantity": 2,
-                "productName": "boAt Rockerz 450 Wireless On-Ear Headphones",
-                "description": "Experience superior sound quality with boAt Rockerz 450 Wireless Headphones. These on-ear headphones feature 40mm dynamic drivers, adjustable ear cups, and a foldable design for convenient storage.",
-                "price": 49.99,
-                "discountPrice": 39.99,
-                "image": "../assets/products/boat_headphone1.png"
-            },
-            {
-                "id": 4,
-                "quantity": 2,
-                "productName": "boAt Bassheads 225 in-Ear Wired Earphones",
-                "description": "Immerse yourself in high-quality sound with boAt Bassheads 225 In-Ear Earphones. The tangle-free cable and comfortable ear tips make these wired earphones perfect for daily use.",
-                "price": 14.99,
-                "discountPrice": 12.99,
-                "image": "../assets/products/boat_headphone4.png"
-            },
-            {
-                "id": 2,
-                "quantity": 2,
-                "productName": "SoundPods Ultra Wireless Earbuds",
-                "description": "Elevate your listening experience with SoundPods Ultra Wireless Earbuds. Featuring advanced Bluetooth technology and a sleek design, these earbuds offer comfort and style.",
-                "price": 89.99,
-                "discountPrice": 79.99,
-                "image": "../assets/products/airpods_style2.png"
-            },
-            {
-                "id": 3,
-                "quantity": 2,
-                "productName": "EchoBuds Harmony True Wireless Earphones",
-                "description": "Immerse yourself in harmonious sound with EchoBuds Harmony True Wireless Earphones. These earphones offer customizable fit, active noise cancellation, and a premium audio experience.",
-                "price": 129.99,
-                "discountPrice": 109.99,
-                "image": "../assets/products/airpods_style3.png"
-            }
-          ]
+          "products": [ ]
         }
     ],
     "headphones": [

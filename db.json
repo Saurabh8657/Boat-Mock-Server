@@ -179,12 +179,94 @@
         {
           "id": 2,
           "userId": 2,
-          "products": [ ]
+          "products": [
+            {
+                "quantity": 2,
+                "id": 1,
+                "productName": "boAt Rockerz 450 Wireless On-Ear Headphones",
+                "description": "Experience superior sound quality with boAt Rockerz 450 Wireless Headphones. These on-ear headphones feature 40mm dynamic drivers, adjustable ear cups, and a foldable design for convenient storage.",
+                "price": "$ 49.99",
+                "discountPrice": "$ 39.99",
+                "image": "/img/headphones/1.webp",
+                "category": "headphones"
+            },
+            {
+                "quantity": 2,
+                "id": 1,
+                "productName": "AirTunes Pro True Wireless Earbuds",
+                "description": "Experience the freedom of AirTunes Pro True Wireless Earbuds. These earbuds provide seamless connectivity, touch controls, and crystal-clear sound for an immersive audio experience.",
+                "price": "$ 79.99",
+                "discountPrice": "$ 69.99",
+                "image": "/img/airpods/19.webp",
+                "category": "airpods"
+            },
+            {
+                "quantity": 2,
+                "id": 1,
+                "productName": "TimeTrack Pro Smartwatch",
+                "description": "Stay on top of your schedule with the TimeTrack Pro Smartwatch. This smartwatch offers advanced tracking features, customizable watch faces, and long battery life.",
+                "price": "$ 149.99",
+                "discountPrice": "$ 129.99",
+                "image": "/img/smartwatches/1.webp",
+                "category": "smartWatches"
+            },
+            {
+                "quantity": 2,
+                "id": 1,
+                "productName": "GrooveSound Mini Portable Bluetooth Speaker",
+                "description": "Take your music anywhere with GrooveSound Mini Portable Bluetooth Speaker. This compact speaker delivers powerful sound, wireless connectivity, and a long-lasting battery for on-the-go enjoyment.",
+                "price": "$ 39.99",
+                "discountPrice": "$ 29.99",
+                "image": "/img/bluetoothSpeakeers/1.webp",
+                "category": "bluetoothSpeaker"
+            }
+          ]
         },
         {
           "id": 3,
           "userId": 3,
-          "products": [ ]
+          "products": [
+            {
+                "quantity": 2,
+                "id": 1,
+                "productName": "boAt Rockerz 450 Wireless On-Ear Headphones",
+                "description": "Experience superior sound quality with boAt Rockerz 450 Wireless Headphones. These on-ear headphones feature 40mm dynamic drivers, adjustable ear cups, and a foldable design for convenient storage.",
+                "price": "$ 49.99",
+                "discountPrice": "$ 39.99",
+                "image": "/img/headphones/1.webp",
+                "category": "headphones"
+            },
+            {
+                "quantity": 2,
+                "id": 1,
+                "productName": "AirTunes Pro True Wireless Earbuds",
+                "description": "Experience the freedom of AirTunes Pro True Wireless Earbuds. These earbuds provide seamless connectivity, touch controls, and crystal-clear sound for an immersive audio experience.",
+                "price": "$ 79.99",
+                "discountPrice": "$ 69.99",
+                "image": "/img/airpods/19.webp",
+                "category": "airpods"
+            },
+            {
+                "quantity": 2,
+                "id": 1,
+                "productName": "TimeTrack Pro Smartwatch",
+                "description": "Stay on top of your schedule with the TimeTrack Pro Smartwatch. This smartwatch offers advanced tracking features, customizable watch faces, and long battery life.",
+                "price": "$ 149.99",
+                "discountPrice": "$ 129.99",
+                "image": "/img/smartwatches/1.webp",
+                "category": "smartWatches"
+            },
+            {
+                "quantity": 2,
+                "id": 1,
+                "productName": "GrooveSound Mini Portable Bluetooth Speaker",
+                "description": "Take your music anywhere with GrooveSound Mini Portable Bluetooth Speaker. This compact speaker delivers powerful sound, wireless connectivity, and a long-lasting battery for on-the-go enjoyment.",
+                "price": "$ 39.99",
+                "discountPrice": "$ 29.99",
+                "image": "/img/bluetoothSpeakeers/1.webp",
+                "category": "bluetoothSpeaker"
+            }
+          ]
         },
         {
           "id": 4,
